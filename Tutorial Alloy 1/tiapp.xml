@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
-    <id>sierro.raul.tutoalloy1</id>
+    <id>sierro.raul.tuto1</id>
     <name>Tutorial Alloy 1</name>
     <version>1.0</version>
     <publisher>Raul_2</publisher>
@@ -11,7 +11,7 @@
     <fullscreen>false</fullscreen>
     <navbar-hidden>false</navbar-hidden>
     <analytics>true</analytics>
-    <guid>269942e6-2f56-47a8-a8da-f856dd74b9b9</guid>
+    <guid>e5e968c8-ae04-495f-8947-9286abc9b205</guid>
     <property name="ti.ui.defaultunit" type="string">dp</property>
     <ios>
         <plist>

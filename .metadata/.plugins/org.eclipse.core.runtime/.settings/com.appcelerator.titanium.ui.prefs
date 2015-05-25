@@ -1,0 +1,9 @@
+=run
+LAST_LAUNCH_TIMESTAMP=1432565213655
+Tutorial\ Alloy\ 1\:launchMode=run
+Tutorial\ Alloy\ 1\:launchShortcut=com.appcelerator.titanium.mobileweb.ui.emulator.launchShortcut.Nexus_5_API_19
+Tutorial\ Alloy\ 2\:launchMode=run
+Tutorial\ Alloy\ 2\:launchShortcut=com.appcelerator.titanium.mobile.ui.android.device.launchShortcut
+eclipse.preferences.version=1
+preference.show.console.onError=true
+preference.studio.perspective.version=103
