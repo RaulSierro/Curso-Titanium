@@ -1,0 +1,19 @@
+".container": {
+	backgroundColor:"white"
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+},
+
+"Button":{
+	backgroundColor: "red",
+	height: 40,
+	width: "80%",
+	color: "#fff",
+}
+
+
+

@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		
+		<Button onClick="saludar" >Saludar</Button>
+		
+	</Window>
+</Alloy>
