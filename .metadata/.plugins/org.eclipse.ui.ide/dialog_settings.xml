@@ -10,23 +10,22 @@
 		<item value="org.eclipse.help:2.0.2.v20140221-1700"/>
 		<item value="org.eclipse.platform:4.3.2.v20140221-1852"/>
 		<item value="org.eclipse.rcp:4.3.2.v20140221-1700"/>
-		<item value="org.radrails.rails:3.4.2.1400262587-7n-7Z7oKtUqxrXdp"/>
 	</list>
 	<section name="ChooseWorkspaceDialogSettings">
 		<item value="203" key="DIALOG_Y_ORIGIN"/>
 		<item value="290" key="DIALOG_X_ORIGIN"/>
 	</section>
+	<section name="ExternalProjectImportWizard">
+	</section>
 	<section name="WORKBENCH_SETTINGS">
 		<list key="ENABLED_TRANSFERS">
 		</list>
 	</section>
-	<section name="ExternalProjectImportWizard">
-	</section>
 	<section name="CleanDialogSettings">
 		<item value="500" key="DIALOG_WIDTH"/>
 		<item value="112" key="DIALOG_Y_ORIGIN"/>
-		<item value="433" key="DIALOG_X_ORIGIN"/>
 		<item value="378" key="DIALOG_HEIGHT"/>
+		<item value="433" key="DIALOG_X_ORIGIN"/>
 		<item value="false" key="TOGGLE_SELECTED"/>
 	</section>
 </section>
