@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<list key="workingset_selection_history">
+		<item value="Tutorial Alloy 03"/>
+	</list>
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="1025" key="dialogWidth"/>
 		<item value="525" key="dialogHeight"/>
@@ -10,6 +13,26 @@
 		<list key="orderedElements">
 		</list>
 		<list key="textEntries">
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+		<item value="374" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="ShowViewDialog">
+		<item value="311" key="DIALOG_WIDTH"/>
+		<item value="org.eclipse.ui.console.ConsoleView" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
+		<item value="80" key="DIALOG_Y_ORIGIN"/>
+		<item value="439" key="DIALOG_HEIGHT"/>
+		<item value="536" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui"/>
+			<item value="com.appcelerator.titanium.profiler.ui.category"/>
+			<item value="org.eclipse.debug.ui"/>
+			<item value="org.eclipse.help.ui"/>
+			<item value="com.aptana"/>
+			<item value="org.eclipse.team.ui"/>
 		</list>
 	</section>
 	<section name="ImportExportAction">

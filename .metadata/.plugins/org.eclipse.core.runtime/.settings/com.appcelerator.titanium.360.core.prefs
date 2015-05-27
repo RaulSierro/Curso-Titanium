@@ -1,0 +1,4 @@
+UserName=raul.sierro@gmail.com
+UserOrgs={"100032004"\:{"org_id"\:100032004,"name"\:"raulsierrogmailcom","_id"\:"5562645532b5b6b118ef93e5","guid"\:"cb96ea1a-de1f-4ccb-8f34-32e2b3743610","user_count"\:1,"current_users_role"\:"admin","is_node_acs_admin"\:true,"created"\:"2015-05-24T23\:52\:53.645Z","reseller"\:false,"active"\:true,"package"\:"free","envs"\:[{"_id"\:"production","name"\:"production","isProduction"\:true,"acsBaseUrl"\:"https\://api.cloud.appcelerator.com","acsAuthBaseUrl"\:"https\://secure-identity.cloud.appcelerator.com","nodeACSEndpoint"\:"https\://admin.cloudapp-enterprise.appcelerator.com"},{"_id"\:"development","name"\:"development","isProduction"\:false,"acsBaseUrl"\:"https\://api.cloud.appcelerator.com","acsAuthBaseUrl"\:"https\://secure-identity.cloud.appcelerator.com","nodeACSEndpoint"\:"https\://admin.cloudapp-enterprise.appcelerator.com"}]}}
+eclipse.preferences.version=1
+previousDashboardEndpoint=https\://platform.appcelerator.com

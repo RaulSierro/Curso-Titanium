@@ -1,0 +1,12 @@
+<Alloy>
+	<Window class="container">
+		<Label>Esta es mi primera etiqueta</Label>
+		<TextField></TextField>
+		<Button>Presiona aqui</Button>
+		<ImageView></ImageView>
+		<Switch></Switch>
+		<Slider></Slider>
+		<TextArea></TextArea>
+		<View></View>
+	</Window>
+</Alloy>
